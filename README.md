@@ -11,4 +11,4 @@ Phiflow is maintain in the following Github repository by Prof. Nils Thuerey's r
 
 https://github.com/tum-pbs/PhiFlow
 
-![compressed](https://user-images.githubusercontent.com/34644464/170998724-76aa7342-9eb0-4f73-8288-8983c4c07eae.gif)
+![compressed](https://user-images.githubusercontent.com/34644464/170999052-7ac8592e-69b9-4958-8e8c-1c41c9c26e2f.gif)
