@@ -10,3 +10,5 @@ The Jupyter Notebooks works well using Google colab. They are commented as well 
 Phiflow is maintain in the following Github repository by Prof. Nils Thuerey's research group at the Department of Informatics, Technical University of Munich
 
 https://github.com/tum-pbs/PhiFlow
+
+![compressed](https://user-images.githubusercontent.com/34644464/170998724-76aa7342-9eb0-4f73-8288-8983c4c07eae.gif)
