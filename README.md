@@ -15,4 +15,8 @@ https://github.com/tum-pbs/PhiFlow
   <img src="https://user-images.githubusercontent.com/34644464/170999052-7ac8592e-69b9-4958-8e8c-1c41c9c26e2f.gif" />
 </p>
 
+![hires_comp](https://user-images.githubusercontent.com/34644464/171157461-5f020d34-afe1-450b-bb11-43a917df2614.gif)  |  ![hires_comp](https://user-images.githubusercontent.com/34644464/171157461-5f020d34-afe1-450b-bb11-43a917df2614.gif)
+
+![hires_comp](https://user-images.githubusercontent.com/34644464/171157461-5f020d34-afe1-450b-bb11-43a917df2614.gif)
+
 ![lid_driven](https://user-images.githubusercontent.com/34644464/170999685-62212f9f-e9d8-4ea1-aba6-2120464e4373.gif)
