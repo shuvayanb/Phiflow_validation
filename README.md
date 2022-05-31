@@ -12,7 +12,7 @@ Phiflow is maintain in the following Github repository by Prof. Nils Thuerey's r
 https://github.com/tum-pbs/PhiFlow
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/34644464/171157461-5f020d34-afe1-450b-bb11-43a917df2614.gif" />
+  <img src="https://user-images.githubusercontent.com/34644464/171157461-5f020d34-afe1-450b-bb11-43a917df2614.gif" alt="drawing" width="200"/>
 </p>
 
 <p align="center">
